@@ -4,8 +4,7 @@ StarWars - API Modules
 
 # Packages/Libraries 
 pip install requests
-
-pip install logger
+pip install logging
 
 # Script Execution
 python vinoth_work.py
